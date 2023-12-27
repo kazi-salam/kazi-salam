@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Kazi Abdus Salam
+### Hi there 😃, My name is Kazi Abdus Salam
 #### I am  a Web-Design and Developer
 ![I am  a Web-Design and Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.18169-9/11407145_920726241283147_2751784040951452520_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=300f58&_nc_ohc=PQMfELwO-S4AX9cmneF&_nc_ht=scontent.fdac24-2.fna&cb_e2o_trans=t&oh=00_AfCUZfB29oH_PGOUgkN002QqjVXfasPlbHTu-5noeew8UQ&oe=65B31FC2)
 
@@ -8,8 +8,8 @@ I have been gathering experience in lot of various aspects in the IT field.
 
 Skills: HTML / CSS  / BOOTSTRAP / JAVASCRIPT / JQUERY / NODE.JS / EXPRESS.JS / GITHUB / REACT.JS
 
-- 🔭 I’m currently working on BUILDWELL Business Promotion Engineering Consulting Liaison Office, Head of IT at Dhaka, Bangladesh. 
-- 🌱 I’m currently learning JQUERY / NODE.JS / EXPRESS.JS / REACT.JS 
+- 🔭 I’m currently working on Upwork 
+- 🌱 I’m currently learning Blockchain 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kazi-salam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kazi-abdus-salam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/kazi.salam.3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kazi.salam.3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@salamrajoir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://webtechdbd.com/)  
@@ -20,9 +20,5 @@ Skills: HTML / CSS  / BOOTSTRAP / JAVASCRIPT / JQUERY / NODE.JS / EXPRESS.JS / G
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazi-salam&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/kazi-salam)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=kazi-salam)  
-
-
 
