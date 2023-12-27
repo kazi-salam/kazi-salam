@@ -1,7 +1,7 @@
 ### Hi there 😃, My name is Kazi Abdus Salam
 #### I am  a Web-Design and Developer
 
-![banner_kas](https://github.com/kazi-salam/kazi-salam/assets/139726170/0ba46ca6-1af2-49b8-a61f-89e704e6d8b5)
+![banner_ks](https://github.com/kazi-salam/kazi-salam/assets/139726170/8bfefaad-282e-4e31-9933-1081055a7bf1)
 
 I like to introduce myself as an IT Professional and Web Design and Developer.
 Always interested to create dynamic and much more creative smart websites.
