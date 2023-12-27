@@ -1,6 +1,7 @@
 ### Hi there 😃, My name is Kazi Abdus Salam
 #### I am  a Web-Design and Developer
-![I am  a Web-Design and Developer](https://scontent.fdac24-2.fna.fbcdn.net/v/t1.18169-9/11407145_920726241283147_2751784040951452520_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=300f58&_nc_ohc=PQMfELwO-S4AX9cmneF&_nc_ht=scontent.fdac24-2.fna&cb_e2o_trans=t&oh=00_AfCUZfB29oH_PGOUgkN002QqjVXfasPlbHTu-5noeew8UQ&oe=65B31FC2)
+
+![banner_kas](https://github.com/kazi-salam/kazi-salam/assets/139726170/0ba46ca6-1af2-49b8-a61f-89e704e6d8b5)
 
 I like to introduce myself as an IT Professional and Web Design and Developer.
 Always interested to create dynamic and much more creative smart websites.
